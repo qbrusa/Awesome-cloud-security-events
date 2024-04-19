@@ -1,5 +1,5 @@
 
-# Awesome Cloud security events
+# Awesome Cloud security events/conferences
 
 An awesome list of cloud security events/summit/conferences over the year.
 
