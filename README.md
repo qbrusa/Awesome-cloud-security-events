@@ -6,6 +6,7 @@ An awesome list of cloud security events/summit/conferences over the year.
 | Event name        | Link     | Date | Localisation | 
 |--------------|-----------|------------|------------|
 | Cloud 8 | https://www.cloudeight.ch/      | January       | Zurich, Switzerland |
+| Cloud Europeen Summit | https://cloudsummit.eu/en/azure-security-compliance/ | May | Wiesbaden/Germany |
 | Fwd:cloudsec North America      | https://fwdcloudsec.org  | June       | Arlington, VA, US |
 | Cloud & Data Security Summit      | https://www.securitysummits.com/event/cloud-security-summit/  | July       | Virtual |
 | Cloud Identity Summit     | https://www.identitysummit.cloud/  | June       | Cologne, Germany |
