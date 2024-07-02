@@ -10,6 +10,7 @@ An awesome list of cloud security events/summit/conferences over the year.
 | Fwd:cloudsec North America      | https://fwdcloudsec.org  | June       | Arlington, VA, US |
 | Cloud & Data Security Summit      | https://www.securitysummits.com/event/cloud-security-summit/  | July       | Virtual |
 | Cloud Identity Summit     | https://www.identitysummit.cloud/  | June       | Cologne, Germany |
+| SANS Cloud Security Exchange | https://www.sans.org/webcasts/sans-cloud-security-exchange-2024/ | August | Online (Free) |
 | Fwd:cloudsec Europe      | https://fwdcloudsec.org/conference/europe/  | September       | Brussels, Belgium |
 | SANS CloudSecNext Summit      | https://www.sans.org/cyber-security-training-events/cloudsecnext-summit-2024/  | September - October       | Denver, CO, US |
 
